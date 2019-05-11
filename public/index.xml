@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>南山区免疫规划</title>
+    <link>/</link>
+    <description>Recent content on 南山区免疫规划</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2017 01:01:13 +0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo-simpledoc-theme</title>
+      <link>/hugo-simpledoc-theme/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>/hugo-simpledoc-theme/</guid>
+      <description>Hugo Simpledoc Theme is a simple and clean documentation theme for Hugo. Also you may use it for building a FAQ-page or generating an online book (why not?). This theme is a very-slightly-modified Hugo port of great WPThemeDoc.
+Screenshot Features Original  Clean design
+ One page
+ Responsive
+ Easely customizable
+  Added  Hugo!
+  Demo You see it in action here and now!</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>/getting-started/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>/getting-started/</guid>
+      <description>Installation  Install Hugo and create a new site.
+ Install hugo simpledoc theme. Inside your new Hugo project run:
+$ cd themes $ git clone https://github.com/aerohub/hugo-simpledoc-theme   Then take a look inside the exampleSite folder of this theme. You&amp;rsquo;ll find a file called config.toml and a folder archetypes. Copy them into the root folder of your Hugo site.
+Configuration Open just-copied config.toml and fill it with your data.</description>
+    </item>
+    
+    <item>
+      <title>Writing Documentation</title>
+      <link>/writing-documentation/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>/writing-documentation/</guid>
+      <description>OK, all you need is just write!
+Run in the root of your project:
+hugo new my-first-doc-item.md  Then open the file with your favorite text editor and you will see something like this:
+--- title: &amp;quot;My First Doc Item&amp;quot; date: 2017-12-12T00:57:40+03:00 anchor: &amp;quot;my-first-doc-item&amp;quot; weight: ---  Write your doc chapter and give it a weight. You may organize your content as you like (even with folders) but All the docs are ranged by weight here!</description>
+    </item>
+    
+    <item>
+      <title>Serving and Building</title>
+      <link>/serving-and-building/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>/serving-and-building/</guid>
+      <description>Test your site In order to see your site in action, run Hugo&amp;rsquo;s built-in local server.
+$ hugo server -w  Now enter localhost:1313 in the address bar of your browser.
+Build your site Just run
+$ hugo  You&amp;rsquo;ll find your documentation files in public folder in the root of Hugo project.</description>
+    </item>
+    
+    <item>
+      <title>Credits and Thanks</title>
+      <link>/credits-thanks-and-license/</link>
+      <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
+      
+      <guid>/credits-thanks-and-license/</guid>
+      <description>Many thanks go to:
+ spf13 &amp;amp; Hugo
+ Rich Tabor &amp;amp; original WPThemeDoc
+  </description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>/license/</link>
+      <pubDate>Tue, 12 Dec 2017 01:01:13 +0300</pubDate>
+      
+      <guid>/license/</guid>
+      <description>The MIT License (MIT)
+Copyright &amp;copy; 2017 Pavel Kanyshev
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the &amp;laquo;Software&amp;raquo;), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>

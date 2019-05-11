@@ -1,0 +1,43 @@
+# Site settings
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "南山区免疫规划"
+theme = "hugo-simpledoc-theme"
+
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  smartlists = true
+  extensions = ["hardLineBreak"]
+
+# Top menu
+[[menu.top]]
+    name = "WHO疫苗立场文件"
+    weight = 30
+    url = "https://www.who.int/immunization/policy/position_papers/en/"
+[[menu.top]]
+    name = "美国 CDC 网站 （疫苗与免疫）"
+    weight = 20
+    url = "http://gohugo.io/https://www.cdc.gov/vaccines/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fdefault.htm"
+[[menu.top]]
+    name = "中国 CDC 疫苗与免疫 "
+    weight = 10
+    url = "http://www.chinacdc.cn/jkzt/ymyjz/"
+
+# Site parameters
+[params]
+
+    # Meta
+    description = "南山区免疫规划"
+    author = " Nanshan CDC"
+    keywords = "疫苗,预防接种,免疫规划"
+    
+    # Header
+    # If not set, site title and meta description will be shown.
+    # You may use markdown here
+    headerTitle = "南山区免疫规划"
+    headerDescription = ""
+    
+    # Back-to-top button name
+    bttButton = ""
