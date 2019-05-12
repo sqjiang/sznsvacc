@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>南山区免疫规划</title>
-    <link>/</link>
+    <link>http://example.org/</link>
     <description>Recent content on 南山区免疫规划</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hugo-simpledoc-theme</title>
-      <link>/hugo-simpledoc-theme/</link>
+      <link>http://example.org/hugo-simpledoc-theme/</link>
       <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
       
-      <guid>/hugo-simpledoc-theme/</guid>
+      <guid>http://example.org/hugo-simpledoc-theme/</guid>
       <description>Hugo Simpledoc Theme is a simple and clean documentation theme for Hugo. Also you may use it for building a FAQ-page or generating an online book (why not?). This theme is a very-slightly-modified Hugo port of great WPThemeDoc.
 Screenshot Features Original  Clean design
  One page
@@ -28,10 +28,10 @@ Screenshot Features Original  Clean design
     
     <item>
       <title>Getting Started</title>
-      <link>/getting-started/</link>
+      <link>http://example.org/getting-started/</link>
       <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
       
-      <guid>/getting-started/</guid>
+      <guid>http://example.org/getting-started/</guid>
       <description>Installation  Install Hugo and create a new site.
  Install hugo simpledoc theme. Inside your new Hugo project run:
 $ cd themes $ git clone https://github.com/aerohub/hugo-simpledoc-theme   Then take a look inside the exampleSite folder of this theme. You&amp;rsquo;ll find a file called config.toml and a folder archetypes. Copy them into the root folder of your Hugo site.
@@ -40,10 +40,10 @@ Configuration Open just-copied config.toml and fill it with your data.</descript
     
     <item>
       <title>Writing Documentation</title>
-      <link>/writing-documentation/</link>
+      <link>http://example.org/writing-documentation/</link>
       <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
       
-      <guid>/writing-documentation/</guid>
+      <guid>http://example.org/writing-documentation/</guid>
       <description>OK, all you need is just write!
 Run in the root of your project:
 hugo new my-first-doc-item.md  Then open the file with your favorite text editor and you will see something like this:
@@ -52,10 +52,10 @@ hugo new my-first-doc-item.md  Then open the file with your favorite text editor
     
     <item>
       <title>Serving and Building</title>
-      <link>/serving-and-building/</link>
+      <link>http://example.org/serving-and-building/</link>
       <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
       
-      <guid>/serving-and-building/</guid>
+      <guid>http://example.org/serving-and-building/</guid>
       <description>Test your site In order to see your site in action, run Hugo&amp;rsquo;s built-in local server.
 $ hugo server -w  Now enter localhost:1313 in the address bar of your browser.
 Build your site Just run
@@ -64,10 +64,10 @@ $ hugo  You&amp;rsquo;ll find your documentation files in public folder in the r
     
     <item>
       <title>Credits and Thanks</title>
-      <link>/credits-thanks-and-license/</link>
+      <link>http://example.org/credits-thanks-and-license/</link>
       <pubDate>Tue, 12 Dec 2017 00:57:40 +0300</pubDate>
       
-      <guid>/credits-thanks-and-license/</guid>
+      <guid>http://example.org/credits-thanks-and-license/</guid>
       <description>Many thanks go to:
  spf13 &amp;amp; Hugo
  Rich Tabor &amp;amp; original WPThemeDoc
@@ -76,10 +76,10 @@ $ hugo  You&amp;rsquo;ll find your documentation files in public folder in the r
     
     <item>
       <title>License</title>
-      <link>/license/</link>
+      <link>http://example.org/license/</link>
       <pubDate>Tue, 12 Dec 2017 01:01:13 +0300</pubDate>
       
-      <guid>/license/</guid>
+      <guid>http://example.org/license/</guid>
       <description>The MIT License (MIT)
 Copyright &amp;copy; 2017 Pavel Kanyshev
 Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -90,11 +90,50 @@ the Software, and to permit persons to whom the Software is furnished to do so,<
     </item>
     
     <item>
+      <title>疫苗储存和运输管理规范 2017 版</title>
+      <link>http://example.org/post/chuyunguifan/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/chuyunguifan/</guid>
+      <description>国家卫生计生委 食品药品监管总局关于印发疫苗储存和运输管理规范（2017年版）的通知 国卫疾控发〔2017〕60号 2017年12月28日 发布 各省、自治区、直辖市卫生计生委、食品药品监督管理局，新疆生产建设兵团卫生局、食品药品监督管理局，中国疾病预防控制中心： 为加强疫苗储存和运输管理工作，根据修订后的《疫苗流通和预防接种管理条例》和《关于进一步加强疫苗流通和预防接种管理工作的意见》（国办发〔2017〕5号），国家卫生计生委、食品药品监管总局对《疫苗储存和运输管理规范》（卫疾控发〔2006〕104号）进行了修订，形成了《疫苗储存和运输管理规范（2017年版）》（可从国家卫生计生委网站http：//www.nhfpc.gov.cn下载）。现印发给你们，请遵照执行。 附件：疫苗储存和运输管理规范（2017年版） 国家卫生计生委 食品药品监管总局 2017年12月15日  疫苗储存和运输管理规范2017年版 [TOC]
+第一章 总 则 第一条 为规范疫苗储存、运输，加强疫苗质量管理，保障预防接种的安全性和有效性，根据《疫苗流通和预防接种管理条例》，制定本规范。
+第二条 本规范适用于疾病预防控制机构、接种单位、疫苗生产企业、疫苗配送企业、疫苗仓储企业的疫苗储存、运输管理。疾病预防控制机构、接种单位的疫苗储存、运输管理还应当遵守《预防接种工作规范》；疫苗生产企业、疫苗配送企业、疫苗仓储企业的疫苗储存、运输管理还应当遵守《药品经营质量管理规范》。
+第三条 疫苗生产企业、疫苗配送企业、疫苗仓储企业应当配备从事疫苗管理的专职人员，疾病预防控制机构、接种单位应当有专（兼）职人员负责疫苗管理，并接受相关业务培训。疾病预防控制机构、接种单位、疫苗生产企业、疫苗配送企业、疫苗仓储企业应当建立疫苗储存、运输管理制度，做好疫苗的储存、运输工作。
+第四条 各级卫生计生行政部门和食品药品监督管理部门负责本规范实施的监督管理工作。
+第二章 疫苗储存、运输的设施设备 第五条 疾病预防控制机构、接种单位、疫苗生产企业、疫苗配送企业、疫苗仓储企业应当装备保障疫苗质量的储存、运输冷链设施设备。
+（一）省级疾病预防控制机构、疫苗生产企业、疫苗配送企业、疫苗仓储企业应当根据疫苗储存、运输的需要，配备普通冷库、低温冷库、冷藏车和自动温度监测器材或设备等。
+（二）设区的市级、县级疾病预防控制机构应当配备普通冷库、冷藏车或疫苗运输车、低温冰箱、普通冰箱、冷藏箱（包）、冰排和温度监测器材或设备等。
+（三）接种单位应当配备普通冰箱、冷藏箱（包）、冰排和温度监测器材或设备等。
+第六条 疾病预防控制机构、接种单位的疫苗储存、运输设施设备管理和维护要求：
+（一）用于疫苗储存的冷库容积应当与储存需求相适应，应当配有自动监测、调控、显示、记录温度状况以及报警的设备，备用制冷机组、备用发电机组或安装双路电路。
+（二）冷藏车能自动调控、显示和记录温度状况。
+（三）冰箱的补充、更新应当选用具备医疗器械注册证的医用冰箱。
+（四）冷藏车、冰箱、冷藏箱（包）在储存、运输疫苗前应当达到相应的温度要求。
+（五）自动温度监测设备，温度测量精度要求在±0.5℃范围内；冰箱监测用温度计，温度测量精度要求在±1℃范围内。
+第七条 有条件的地区或单位应当建立自动温度监测系统。自动温度监测系统的测量范围、精度、误差等技术参数能够满足疫苗储存、运输管理需要，具有不间断监测、连续记录、数据存储、显示及报警功能。
+第八条 疾病预防控制机构、接种单位、疫苗生产企业、疫苗配送企业、疫苗仓储企业应当建立健全冷链设备档案，并对疫苗储存、运输设施设备运行状况进行记录。
+第九条 疾病预防控制机构应当定期评估辖区内冷链设施设备的装备和运行状况，根据预防接种工作需要，制定冷链设备补充、更新需求计划，参考“冷链设备维护周期和使用年限参考标准”（附件1），报同级卫生计生行政部门和上级疾病预防控制机构，及时补充、更新冷链设备设施。
+第三章 疫苗储存、运输的温度监测 第十条 疾病预防控制机构、接种单位、疫苗生产企业、疫苗配送企业、疫苗仓储企业必须按照疫苗使用说明书、《预防接种工作规范》等有关疫苗储存、运输的温度要求储存和运输疫苗。
+第十一条 疾病预防控制机构、接种单位应当按以下要求对疫苗的储存温度进行监测和记录。
+（一）采用自动温度监测器材或设备对冷库进行温度监测，须同时每天上午和下午至少各进行一次人工温度记录（间隔不少于6小时），填写“冷链设备温度记录表”（附件2）。
+（二）采用温度计对冰箱（包括普通冰箱、低温冰箱）进行温度监测，须每天上午和下午各进行一次温度记录（间隔不少于6小时），填写“冷链设备温度记录表”（附件2）。温度计应当分别放置在普通冰箱冷藏室及冷冻室的中间位置，低温冰箱的中间位置。每次应当测量冰箱内存放疫苗的各室温度，冰箱冷藏室温度应当控制在2℃～8℃，冷冻室温度应当控制在≤-15℃。有条件的地区或单位可以应用自动温度监测器材或设备对冰箱进行温度监测记录。
+（三）可采用温度计对冷藏箱（包）进行温度监测，有条件的地区或单位可以使用具有外部显示温度功能的冷藏箱（包）。
+第十二条 疫苗配送企业、疾病预防控制机构、接种单位应当对疫苗运输过程进行温度监测，并填写“疫苗运输温度记录表”（附件3）。
+（一）记录内容包括疫苗运输工具、疫苗冷藏方式、疫苗名称、生产企业、规格、批号、有效期、数量、用途、启运和到达时间、启运和到达时的疫苗储存温度和环境温度、启运至到达行驶里程、送/收疫苗单位、送/收疫苗人签名。
+（二）运输时间超过6小时，须记录途中温度。途中温度记录时间间隔不超过6小时。
+第十三条 对于冷链运输时间长、需要配送至偏远地区的疫苗，省级疾病预防控制机构应当对疫苗生产企业提出加贴温度控制标签的要求并在招标文件中提出。疫苗生产企业应当根据疫苗的稳定性选用合适规格的温度控制标签。
+第十四条 疫苗储存、运输过程中的温度记录可以为纸质或可识读的电子格式，温度记录要求保存至超过疫苗有效期2年备查。
+第四章　疫苗储存、运输中的管理 第十五条 疫苗生产企业、疫苗配送企业、疾病预防控制机构在供应或分发疫苗时，应当向收货方提供疫苗运输的设备类型、起运和到达时间、本次运输过程的疫苗运输温度记录、发货单和签收单等资料。
+第十六条 疾病预防控制机构、接种单位在接收或者购进疫苗时，应当索取和检查疫苗生产企业或疫苗配送企业提供的《生物制品批签发合格证》复印件，进口疫苗还应当提供《进口药品通关单》复印件。收货时应当核实疫苗运输的设备类型、本次运输过程的疫苗运输温度记录，对疫苗运输工具、疫苗冷藏方式、疫苗名称、生产企业、规格、批号、有效期、数量、用途、启运和到达时间、启运和到达时的疫苗储存温度和环境温度等内容进行核实并做好记录。
+（一）对于资料齐全、符合冷链运输温度要求的疫苗，方可接收。</description>
+    </item>
+    
+    <item>
       <title>预防接种工作规范</title>
-      <link>/post/guifan/</link>
+      <link>http://example.org/post/guifan/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/guifan/</guid>
+      <guid>http://example.org/post/guifan/</guid>
       <description>预防接种工作规范（2016版） [TOC]
 第一章 组织机构、人员及职责 1 组织机构 1.1 疾控机构 县级及以上各级疾病预防控制机构（疾控机构）设立负责预防接种工作的业务部门（中心、所、科、室）。
 1.2 乡（镇）卫生院、社区卫生服务中心 乡（镇）卫生院、社区卫生服务中心依据其职责设立预防接种科室。
@@ -127,13 +166,22 @@ the Software, and to permit persons to whom the Software is furnished to do so,<
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>http://example.org/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>http://example.org/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/post/2019-05-12-2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2019-05-12-2017/</guid>
+      <description>疫苗储存和运输管理规范 2017 版 /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l=&#34;1.11.3&#34;,m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:&#34;&#34;,length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&amp;&amp;bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for(&#34;boolean&#34;==typeof g&amp;&amp;(j=g,g=arguments[h]||{},h++),&#34;object&#34;==typeof g||m.isFunction(g)||(g={}),h===i&amp;&amp;(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&amp;&amp;(j&amp;&amp;c&amp;&amp;(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&amp;&amp;m.isArray(a)?a:[]):f=a&amp;&amp;m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&amp;&amp;(g[d]=c));return g},m.extend({expando:&#34;jQuery&#34;+(l+Math.random()).replace(/\D/g,&#34;&#34;),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return&#34;function&#34;===m.type(a)},isArray:Array.isArray||function(a){return&#34;array&#34;===m.type(a)},isWindow:function(a){return null!=a&amp;&amp;a==a.window},isNumeric:function(a){return!m.isArray(a)&amp;&amp;a-parseFloat(a)+1=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||&#34;object&#34;!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&amp;&amp;!j.call(a,&#34;constructor&#34;)&amp;&amp;!j.call(a.constructor.prototype,&#34;isPrototypeOf&#34;))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+&#34;&#34;:&#34;object&#34;==typeof a||&#34;function&#34;==typeof a?</description>
     </item>
     
   </channel>

@@ -3,90 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/hugo-simpledoc-theme/</loc>
+    <loc>http://example.org/hugo-simpledoc-theme/</loc>
     <lastmod>2017-12-12T00:57:40+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/getting-started/</loc>
+    <loc>http://example.org/getting-started/</loc>
     <lastmod>2017-12-12T00:57:40+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/writing-documentation/</loc>
+    <loc>http://example.org/writing-documentation/</loc>
     <lastmod>2017-12-12T00:57:40+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/serving-and-building/</loc>
+    <loc>http://example.org/serving-and-building/</loc>
     <lastmod>2017-12-12T00:57:40+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/credits-thanks-and-license/</loc>
+    <loc>http://example.org/credits-thanks-and-license/</loc>
     <lastmod>2017-12-12T00:57:40+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/license/</loc>
+    <loc>http://example.org/license/</loc>
     <lastmod>2017-12-12T01:01:13+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/chuyunguifan/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/guifan/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/guifan/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>http://example.org/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>http://example.org/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>http://example.org/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>http://example.org/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>http://example.org/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>http://example.org/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/2019-05-12-2017/</loc>
     <priority>0</priority>
   </url>
   
