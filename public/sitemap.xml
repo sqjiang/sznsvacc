@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/post/guifan/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/hugo-simpledoc-theme/</loc>
     <lastmod>2017-12-12T00:57:40+03:00</lastmod>
   </url>
@@ -47,11 +52,6 @@
   <url>
     <loc>http://example.org/post/chuyunguifan/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/guifan/</loc>
-    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
