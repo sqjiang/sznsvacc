@@ -6,7 +6,7 @@ slug: human-papillomavirus-vaccines-who-position-paper-may-2017
 categories: []
 tags: []
 anchor: 2019-05-12-human-papillomavirus-vaccines-who-position-paper-may-2017
-weight: ~
+weight: 20
 ---
 
 Human papillomavirus vaccines: WHO position paper, May 2017
