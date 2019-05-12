@@ -1,10 +1,12 @@
 ---
-title: Human papillomavirus vaccines
+title: HPV WHO POSTION PAPER 2017
 author: Shiqiang Jiang
 date: '2019-05-12'
-slug: human-papillomavirus-vaccines-who-position-paper-may-2017
-anchor: 2019-05-12-human-papillomavirus-vaccines-who-position-paper-may-2017
-weight: 20
+slug: hpv-who-postion-paper-2017
+categories: []
+tags: []
+anchor: 2019-05-12-hpv-who-postion-paper-2017
+weight: ~
 ---
 
 Human papillomavirus vaccines: WHO position paper, May 2017
