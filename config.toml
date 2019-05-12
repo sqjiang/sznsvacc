@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.top]]
     name = "美国 CDC 网站 （疫苗与免疫）"
     weight = 20
-    url = "http://gohugo.io/https://www.cdc.gov/vaccines/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fdefault.htm"
+    url = "https://www.cdc.gov/vaccines/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fdefault.htm"
 [[menu.top]]
     name = "中国 CDC 疫苗与免疫 "
     weight = 10
